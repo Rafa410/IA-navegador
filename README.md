@@ -10,5 +10,7 @@ Implementar diferentes algoritmos de búsqueda para una aplicación de navegaci�
   · A* Search
   
   
+  
 Rafael Soler Pérez
+
 UAB - Ingeniería informática
